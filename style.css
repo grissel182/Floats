@@ -1,0 +1,23 @@
+div{
+	height: 100px;
+	width: 25%;
+}
+.fondo{
+	height: 300px;
+	width: 800px;
+	background-color: white;
+	border: 2px solid black;
+
+}
+.inline{
+	display: inline-block;
+}
+.amarillo{
+	background-color: yellow;
+}
+.azul{
+	background-color: cyan;
+}
+.rosa{
+	background-color: #FF0080;
+}
